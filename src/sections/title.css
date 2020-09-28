@@ -1,0 +1,20 @@
+.icons-wr{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .icon{
+    margin: 14px;
+  }
+  
+  .first{
+    
+    background-color: antiquewhite;
+    color: crimson;
+    font-family: 'B612', sans-serif;
+  }
+  h1{
+    font-size: 45px;
+    
+  }

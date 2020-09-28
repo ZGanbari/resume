@@ -1,0 +1,86 @@
+{
+   
+    "icon":"imag/down.png",
+    "up":"imag/up.png",
+    "title":"Hello, I'm Zahra" ,
+    "subtitle":"Full Stack Dev | Open-Source Enthusiast" ,
+    "links":{
+        "github":"https://github.com/ZGanbari",
+    
+        "linkdin":"https://www.linkedin.com/in/zahra-ghanbari-b768261b5/",
+        "StackOverFlow":"https://stackoverflow.com/users/12717813/zahra-ghanbari"
+    }
+    ,
+    "sections":
+    [
+        {
+            "title":"About",
+            "item":[
+                {"type":"p",
+                "content":"I'm a student of Computer Engineering of Kharazmi Uneversity."},
+                {"type":"p",
+                    "content":"I have knowledge and experience about Back-End and Front-End."}
+                   , {"type":"p",
+                        "content":"I love game desing programming."}
+            ]
+        },
+        {
+            "title":"skils",
+            "iteme":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"imag/react.jpg",
+                        "alt":"React",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"imag/html.png",
+                        "alt":"HTML",
+                        "title":"Html"
+                    }
+                },
+               
+                {
+                    "type":"card",
+                    "content":{
+                        
+                        "image":"imag/c++.png",
+                        "alt":"C++",
+                        "title":"C++"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"imag/php.jpg",
+                        "alt":"PHP",
+                        "title":"PHP"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"imag/css.jpg",
+                        "alt":"CSS",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"imag/js.jpg",
+                        "alt":"js",
+                        "title":"JavaScript"
+                    }
+                }
+            ]
+        }
+    ]
+
+   
+    
+}

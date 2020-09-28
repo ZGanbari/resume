@@ -1,0 +1,54 @@
+
+
+.third{
+    background-color: lightblue;
+    color: navy;
+    font-family: 'B612', sans-serif;
+  }
+  h1{
+    font-size: 45px;
+    
+  }
+  .cards-wr{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .cards:hover{
+    box-shadow:0px 14px 28px gray;
+  
+  }
+  .cards{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 200;
+    width: 300;
+    background-color: honeydew;
+    margin: 15px;
+    box-shadow: 0px 2px 3px grey;
+  
+  }
+  img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .img-wr{
+    width: 110px;
+    height: 90px;
+    text-align: center;
+    padding: 3px;
+  }
+  .skill-wr{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100px;
+    width: 110px;
+  
+  
+  }

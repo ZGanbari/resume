@@ -1,0 +1,29 @@
+
+
+  .Nav{
+    position: fixed;
+    top:0;
+      display: flex;
+      flex-direction:row;
+      /* background-color: white;
+      color: salmon; */
+      font-family: 'B612', sans-serif;
+      font-size: 18px;
+  }
+
+  .sections{
+    display: flex;
+    flex-direction:row;
+
+  }
+  .chang{
+    display: block;
+   
+      padding-left: 1075px;
+    align-items: center;
+    }
+
+    .button {
+      display: block;
+        padding: 10px;
+    }
